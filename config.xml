@@ -6,14 +6,14 @@
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>Moodle</name>
+    <name>IKLAS Online</name>
 
     <description>
-        Moodle official app
+        IKLAS Online Academy
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://iklas.in" email="admin@iklas.in">
+        IKLAS Admin
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
